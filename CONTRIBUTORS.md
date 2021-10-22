@@ -3,7 +3,6 @@
 - Place: Davao, Philippines
 - GitHub: (https://github.com/antonsison)
 
-
 #### Name: [Theressa Tan](https://github.com/tmttan03)
 
 - Place: Mati City, Philippines
@@ -13,3 +12,8 @@
 
 - Place: Minas Gerias, Brazil
 - GitHub: (https://github.com/zedutra)
+
+#### Name: [Hithru De Alwis](https://github.com/Hithru)
+
+- Place: Nattandiya, Sri Lanka
+- GitHub: (https://github.com/Hithru)
