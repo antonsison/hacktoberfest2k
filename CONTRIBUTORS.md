@@ -23,7 +23,15 @@
 - Place: Davao City, Philippines
 - GitHub: (https://github.com/melchiaballe)
 
+
+#### Name: [Rhainne Anjelowe Mendoza](https://github.com/mendozarain)
+
+- Place: Davao City, Philippines
+- GitHub: (https://github.com/mendozarain)
+
+
 ### Name: [Franz Luigi Fuentes](https://github.com/flafuentes)
 
 - Place: Davao City, Philippines
 - GitHub: (https://github.com/flafuentes)
+
