@@ -22,3 +22,8 @@
 
 - Place: Davao City, Philippines
 - GitHub: (https://github.com/melchiaballe)
+
+### Name: [Franz Luigi Fuentes](https://github.com/flafuentes)
+
+- Place: Davao City, Philippines
+- GitHub: (https://github.com/flafuentes)
