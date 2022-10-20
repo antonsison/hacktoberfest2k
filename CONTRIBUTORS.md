@@ -18,6 +18,10 @@
 - Place: Nattandiya, Sri Lanka
 - GitHub: (https://github.com/Hithru)
 
+#### Name: [Ricktho Sarkar](https://github.com/Ricktho1)
+- Place: West Bengal, India
+- Github: (https://github.com/Ricktho1)
+
 #### Name: [Melchi Lloyd Aballe](https://github.com/melchiaballe)
 
 - Place: Davao City, Philippines
